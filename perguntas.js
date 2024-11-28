@@ -1,35 +1,19 @@
 criaCartao(
     'Diário de Bordo', 
     'Qual foi o destino?', 
-    'Informar o destino da viagem.', 
-)
-
-criaCartao(
-    'Custo da Viagem', 
-    'Qual foi o custo total dessa viagem por pessoa e qual a modalidade de aquisição?', 
-    'Informar o valor na moeda original do local e o valor convertido para R$. Informar se a aquisição foi via agência de viagens ou aquisição de forma independente '
+    'Cidade de Newcastle, Inglaterra.', 
 )
 
 criaCartao(
     'Fato Curioso', 
-    'Uma curiosidade sobre cidade/ponto turístico/país visitado!', 
-    'Informar através de um breve texto uma curiosidade.'
+    'O nome da cicade Newcastle veio do Castelo de Newcastle.'
 )
 
 criaCartao(
     'Passeios', 
     'Onde passear?', 
-    'Informar os locais, breve resumo do que são.'
-)
-
-criaCartao(
-    'Prato Típico', 
-    'Conhece o "nome do prato"?', 
-    'Explicar sobre o prato, porque o escolheu e o ingrediente principal.'
-)
-
-criaCartao(
-    'Ponto de Vista', 
-    'O que eu achei da viagem para ...?', 
-    'Informar através de um breve texto sobre o que achou da viagem, o que faria de diferente e por quê.'
+    'Castelo de Newcastle: O castelo que deu origem ao nome da cidade 
+St. James' Park: O estádio do Newcastle United, onde é possível ver os torcedores da equipe 
+Quayside: Um local com vista para o rio Tyne, onde se encontram bares elegantes e o mercado de Quayside 
+Ponte Gateshead Millennium: Uma ponte que atravessa o rio Tyne até Gateshead.'
 )
